@@ -3,7 +3,7 @@ name: issues actions
 on:
   issues:
     types:
-      - opened
+      - [opened, edited]
 
   workflow_dispatch:
 
