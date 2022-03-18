@@ -1,0 +1,74 @@
+name: issues actions
+
+on:
+  issues:
+    types:
+      - opened
+
+  workflow_dispatch:
+
+jobs:
+  issue-manager:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Change README.md
+        run: |
+          time=$(date +%F -d "${{github.event.issue.updated_at}}")
+          echo "- [${{ github.event.issue.title}}](${{github.event.issue.html_url}}) $time" >> README.md
+      - name: Commit files
+        run: |
+          git config --local user.name ${{ github.actor }}
+          git add README.md
+          git commit -m "(Automated) Update README.md"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+          
+  push-telegram:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send to telegram
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+            新的活动 ${{github.event.issue.html_url}}
+
+  ##################################################
+  new-discussion:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    needs: issue-manager
+    steps:
+      - run: |
+          gh api -i graphql -f query='
+            mutation {
+              createDiscussion(
+                input: {repositoryId: "R_kgDOG8AAIw", categoryId: "DIC_kwDOG8AAI84CN7YB",
+                  title: "${{github.event.issue.title}}", body: "具体内容请看：${{github.event.issue.html_url}}"
+                }
+              )
+              {
+                discussion {
+                  id
+                  number
+                  title
+                }
+              }
+            }
+            '
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  issue-reply:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh issue comment $ISSUE --body "欢迎您提交活动信息，Rebase 会整理并通过公众号发出。"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.html_url }}
