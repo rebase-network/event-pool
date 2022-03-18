@@ -1,4 +1,4 @@
-name: issues actions
+name: new event actions
 
 on:
   issues:
@@ -49,8 +49,8 @@ jobs:
           gh api -i graphql -f query='
             mutation {
               createDiscussion(
-                input: {repositoryId: "R_kgDOG8AAIw", categoryId: "DIC_kwDOG8AAI84CN7YB",
-                  title: "${{github.event.issue.title}}", body: "具体内容请看：${{github.event.issue.html_url}}"
+                input: {repositoryId: "R_kgDOG8AAIw", categoryId: "DIC_kwDOG8AAI84CN7cU",
+                  title: "${{github.event.issue.title}}", body: ${{github.event.issue.}}
                 }
               )
               {
