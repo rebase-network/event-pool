@@ -13,3 +13,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - Grant 活动
 
 如果有任何问题和建议，可以[创建 issue](https://github.com/rebase-network/event-pool/issues/new) 讨论。
+- [2022年3月 新一期 NEAR认证开发者中文课程 ](https://github.com/rebase-network/event-pool/issues/10) 2022-03-18
