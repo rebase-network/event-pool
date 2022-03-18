@@ -49,7 +49,7 @@ jobs:
             mutation {
               createDiscussion(
                 input: {repositoryId: "R_kgDOG8AAIw", categoryId: "DIC_kwDOG8AAI84CN7cU",
-                  title: "${{github.event.issue.title}}", body: ${{github.event.issue.body}}
+                  title: "${{github.event.issue.title}}", body: "${{github.event.issue.body}}"
                 }
               )
               {
