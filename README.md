@@ -14,7 +14,7 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 
 如果有任何问题和建议，可以[创建 issue](https://github.com/rebase-network/event-pool/issues/new) 讨论。
 
+## Events
 
 - [2022-03-26 Rebase Coding Day——多平台智能合约开发入门对比](https://github.com/rebase-network/event-pool/issues/11) 2022-03-21
-- [2022/3/22 晚10点 Neo线上圆桌：One more step to the Smart Economy ](https://github.com/rebase-network/event-pool/issues/12) 2022-03-22
 - [2022/3/23 晚10点 Neo线上圆桌：One more step to the Smart Economy ](https://github.com/rebase-network/event-pool/issues/12) 2022-03-22
