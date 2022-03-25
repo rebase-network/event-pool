@@ -2,7 +2,7 @@ name: new event actions
 
 on:
   issues:
-    types: [opened, edited]
+    types: [opened]
 
   workflow_dispatch:
 
@@ -26,7 +26,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true
-          
+
   push-telegram:
     runs-on: ubuntu-latest
     needs: issue-manager
