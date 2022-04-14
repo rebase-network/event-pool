@@ -22,3 +22,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [NEAR三月认证开发者课程：Octopus Network的NEAR智能合约实践](https://github.com/rebase-network/event-pool/issues/14) 2022-03-29
 - [技术工作坊：使用Java开发智能合约](https://github.com/rebase-network/event-pool/issues/15) 2022-04-07
 - [Neo系列技术工作坊: 4月11-14, 10 pm UTC+8 ](https://github.com/rebase-network/event-pool/issues/16) 2022-04-11
+- [2022年4月 NEAR认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/17) 2022-04-14
