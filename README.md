@@ -25,3 +25,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [2022年4月 NEAR认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/17) 2022-04-14
 - [2022.04.26 Gear 线上 Workshop](https://github.com/rebase-network/event-pool/issues/18) 2022-04-19
 - [Gear Talk — 对话 Gear 生态负责人，了解最新动向](https://github.com/rebase-network/event-pool/issues/19) 2022-04-22
+- [Crypto Tech Night #13: 以太坊合并](https://github.com/rebase-network/event-pool/issues/20) 2022-04-27
