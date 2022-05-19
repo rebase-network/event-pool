@@ -24,8 +24,13 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           force: true
+      - name: reply
+        run: gh issue comment $ISSUE --body "欢迎您提交活动信息，Rebase 会整理活动内容，通过公众号发出。"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.html_url }}
 
   push-telegram:
     runs-on: ubuntu-latest
