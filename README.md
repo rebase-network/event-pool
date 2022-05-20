@@ -30,3 +30,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [区块链入门课程——0基础创建以太坊智能合约](https://github.com/rebase-network/event-pool/issues/22) 2022-05-12
 - [2022年5月 NEAR认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/23) 2022-05-14
 - [黑客松加持以太坊上海峰会](https://github.com/rebase-network/event-pool/issues/24) 2022-05-19
+- [DevCon II@BeWater in Silicon Valley](https://github.com/rebase-network/event-pool/issues/25) 2022-05-20
