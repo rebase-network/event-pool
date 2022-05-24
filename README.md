@@ -32,3 +32,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [黑客松加持以太坊上海峰会](https://github.com/rebase-network/event-pool/issues/24) 2022-05-19
 - [DevCon II@BeWater in Silicon Valley](https://github.com/rebase-network/event-pool/issues/25) 2022-05-20
 - [活动预告｜Gear Talk](https://github.com/rebase-network/event-pool/issues/26) 2022-05-21
+- [元宇宙黑客松报名截止6月15](https://github.com/rebase-network/event-pool/issues/27) 2022-05-24
