@@ -35,3 +35,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [元宇宙黑客松报名截止6月15](https://github.com/rebase-network/event-pool/issues/27) 2022-05-24
 - [2022.6.1 - Consensys 产品分享](https://github.com/rebase-network/event-pool/issues/28) 2022-05-31
 - [Rebase大学分享：Botto-去中心化自治艺术](https://github.com/rebase-network/event-pool/issues/29) 2022-06-01
+- [Rebase大学分享：Botto-去中心化自治艺术](https://github.com/rebase-network/event-pool/issues/30) 2022-06-01
