@@ -47,3 +47,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Rebase大学分享：Botto-去中心化自治艺术](https://github.com/rebase-network/event-pool/issues/30) 2022-06-01
 - [Rebase大学分享：APE Coin](https://github.com/rebase-network/event-pool/issues/31) 2022-06-05
 - [对话 DFINITY 黑客松历届冠亚军项目，揭秘创业之路！](https://github.com/rebase-network/event-pool/issues/32) 2022-06-08
+- [[Rebase大学分享] Web3项目监管和融资法律分享](https://github.com/rebase-network/event-pool/issues/33) 2022-06-09
