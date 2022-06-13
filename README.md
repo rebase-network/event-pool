@@ -49,3 +49,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [对话 DFINITY 黑客松历届冠亚军项目，揭秘创业之路！](https://github.com/rebase-network/event-pool/issues/32) 2022-06-08
 - [[Rebase大学分享] Web3项目监管和融资法律分享](https://github.com/rebase-network/event-pool/issues/33) 2022-06-09
 - [[Rebase大学分享] Ethereum Push Notification Service](https://github.com/rebase-network/event-pool/issues/34) 2022-06-12
+- [TGO鲲鹏会《敏捷团队绩效管理》](https://github.com/rebase-network/event-pool/issues/35) 2022-06-13
