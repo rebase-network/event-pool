@@ -51,3 +51,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [[Rebase大学分享] Ethereum Push Notification Service](https://github.com/rebase-network/event-pool/issues/34) 2022-06-12
 - [TGO鲲鹏会《敏捷团队绩效管理》](https://github.com/rebase-network/event-pool/issues/35) 2022-06-13
 - [Dapp Learning Sharing_Zero Knowledge Proofs in Mina](https://github.com/rebase-network/event-pool/issues/36) 2022-06-15
+- [2022年6月 NEAR认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/37) 2022-06-16
