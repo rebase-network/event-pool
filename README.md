@@ -53,3 +53,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Dapp Learning Sharing_Zero Knowledge Proofs in Mina](https://github.com/rebase-network/event-pool/issues/36) 2022-06-15
 - [2022年6月 NEAR认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/37) 2022-06-16
 - [Artiverse公开课 | Reva: 算法生成艺术在Web3](https://github.com/rebase-network/event-pool/issues/38) 2022-06-23
+- [PrivacyIN隐私学院开讲！打造密码学全球「私」塾](https://github.com/rebase-network/event-pool/issues/39) 2022-06-23
