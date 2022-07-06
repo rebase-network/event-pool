@@ -57,3 +57,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Get Ready for PrivacyIN Courses, co-build the global privacy research community ](https://github.com/rebase-network/event-pool/issues/40) 2022-06-24
 - [[杭州 6 月 27 日] Gear 杭州线下 Workshop](https://github.com/rebase-network/event-pool/issues/41) 2022-06-25
 - [2022/7/9 Rebase Coding Day 来了！](https://github.com/rebase-network/event-pool/issues/42) 2022-07-06
+- [WEB3 JAM 开幕式](https://github.com/rebase-network/event-pool/issues/43) 2022-07-06
