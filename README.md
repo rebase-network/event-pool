@@ -44,3 +44,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [WEB3 JAM 开幕式](https://github.com/rebase-network/event-pool/issues/43) 2022-07-06
 - [Rebase 大学：SharkTeam：链上安全角度分析 Luna/Celsius/3AC 暴雷问题](https://github.com/rebase-network/event-pool/issues/44) 2022-07-11
 - [ “ 他的名字叫小V” 栏目#1: EIP 4337 合约钱包分享](https://github.com/rebase-network/event-pool/issues/45) 2022-07-12
+- [关注以太坊合并系列工作坊](https://github.com/rebase-network/event-pool/issues/46) 2022-07-14
