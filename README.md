@@ -35,3 +35,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [关注以太坊合并系列工作坊](https://github.com/rebase-network/event-pool/issues/46) 2022-07-14
 - [Rebase 大学：nansen — 区块链 BigData 最佳实施](https://github.com/rebase-network/event-pool/issues/47) 2022-07-19
 - [Gear 线上 Workshop：使用 Gear JS SDK 开发 NFT Marketplace](https://github.com/rebase-network/event-pool/issues/48) 2022-07-20
+- [Moonlight builder workshop第二期：The Graph助力Moonbeam的DAPP开发者获取链上数据](https://github.com/rebase-network/event-pool/issues/49) 2022-07-26
