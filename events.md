@@ -16,3 +16,15 @@
 - [活动预告｜Gear Talk](https://github.com/rebase-network/event-pool/issues/26) 2022-05-21
 - [元宇宙黑客松报名截止 6 月 15](https://github.com/rebase-network/event-pool/issues/27) 2022-05-24
 - [2022.6.1 - Consensys 产品分享](https://github.com/rebase-network/event-pool/issues/28) 2022-05-31
+- [Rebase 大学分享：Botto-去中心化自治艺术](https://github.com/rebase-network/event-pool/issues/30) 2022-06-01
+- [Rebase 大学分享：APE Coin](https://github.com/rebase-network/event-pool/issues/31) 2022-06-05
+- [对话 DFINITY 黑客松历届冠亚军项目，揭秘创业之路！](https://github.com/rebase-network/event-pool/issues/32) 2022-06-08
+- [[Rebase 大学分享] Web3 项目监管和融资法律分享](https://github.com/rebase-network/event-pool/issues/33) 2022-06-09
+- [[Rebase 大学分享] Ethereum Push Notification Service](https://github.com/rebase-network/event-pool/issues/34) 2022-06-12
+- [TGO 鲲鹏会《敏捷团队绩效管理》](https://github.com/rebase-network/event-pool/issues/35) 2022-06-13
+- [Dapp Learning Sharing_Zero Knowledge Proofs in Mina](https://github.com/rebase-network/event-pool/issues/36) 2022-06-15
+- [2022 年 6 月 NEAR 认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/37) 2022-06-16
+- [Artiverse 公开课 | Reva: 算法生成艺术在 Web3](https://github.com/rebase-network/event-pool/issues/38) 2022-06-23
+- [PrivacyIN 隐私学院开讲！打造密码学全球「私」塾](https://github.com/rebase-network/event-pool/issues/39) 2022-06-23
+- [Get Ready for PrivacyIN Courses, co-build the global privacy research community ](https://github.com/rebase-network/event-pool/issues/40) 2022-06-24
+- [[杭州 6 月 27 日] Gear 杭州线下 Workshop](https://github.com/rebase-network/event-pool/issues/41) 2022-06-25
