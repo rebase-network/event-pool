@@ -38,3 +38,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Moonlight builder workshop第二期：The Graph助力Moonbeam的DAPP开发者获取链上数据](https://github.com/rebase-network/event-pool/issues/49) 2022-07-26
 - [ZK 技术的展望与发展趋势](https://github.com/rebase-network/event-pool/issues/50) 2022-07-26
 - [ZK 技术的展望与发展趋势](https://github.com/rebase-network/event-pool/issues/51) 2022-07-26
+- [Substrate Builder 2022 年上半年回顾！](https://github.com/rebase-network/event-pool/issues/52) 2022-07-28
