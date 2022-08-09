@@ -41,3 +41,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Substrate Builder 2022 年上半年回顾！](https://github.com/rebase-network/event-pool/issues/52) 2022-07-28
 - [去中心化一件部署节点平台Hamster的space活动👏](https://github.com/rebase-network/event-pool/issues/53) 2022-07-30
 - [DTalk 栏目第四期：如何构建高质量的 DEFI 应用](https://github.com/rebase-network/event-pool/issues/54) 2022-08-02
+- [2022 THUBA DAO Summer Hack开幕式即将开启](https://github.com/rebase-network/event-pool/issues/55) 2022-08-09
