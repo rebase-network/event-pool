@@ -43,3 +43,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [DTalk 栏目第四期：如何构建高质量的 DEFI 应用](https://github.com/rebase-network/event-pool/issues/54) 2022-08-02
 - [2022 THUBA DAO Summer Hack开幕式即将开启](https://github.com/rebase-network/event-pool/issues/55) 2022-08-09
 - [Rebase 大学：EcoPoW——经济的工作量证明](https://github.com/rebase-network/event-pool/issues/56) 2022-08-11
+- [Web3 BUIDL分享：Hackathon Driven BUIDLs](https://github.com/rebase-network/event-pool/issues/57) 2022-08-12
