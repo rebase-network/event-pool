@@ -46,3 +46,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Web3 BUIDL分享：Hackathon Driven BUIDLs](https://github.com/rebase-network/event-pool/issues/57) 2022-08-12
 - [Substrate 进阶课第五期将于 8 月 26 日开课啦！](https://github.com/rebase-network/event-pool/issues/58) 2022-08-19
 - [2022年8月 NEAR认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/59) 2022-08-20
+- [[Hacker House] ETH GLOBAL 黑客松参赛经验分享](https://github.com/rebase-network/event-pool/issues/60) 2022-08-31
