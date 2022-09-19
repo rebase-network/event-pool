@@ -50,3 +50,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [巴比特公开课活动——web3数据分析新范式—如何通过数据赋能投资决策](https://github.com/rebase-network/event-pool/issues/61) 2022-09-01
 - [Tintinland “从0开始学区块链”课程就即将上线！](https://github.com/rebase-network/event-pool/issues/62) 2022-09-07
 - [Gear Meetup 南京站](https://github.com/rebase-network/event-pool/issues/63) 2022-09-14
+- [2022年9月 NEAR认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/64) 2022-09-19
