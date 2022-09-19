@@ -52,3 +52,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Gear Meetup 南京站](https://github.com/rebase-network/event-pool/issues/63) 2022-09-14
 - [2022年9月 NEAR认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/64) 2022-09-19
 - [[Rebase大学分享] 从 Solidity 到 sCrypt 智能合约： BSV 区块链智能合约开发简介](https://github.com/rebase-network/event-pool/issues/65) 2022-09-19
+- [大理 Hacker House 第一期招募](https://github.com/rebase-network/event-pool/issues/66) 2022-09-19
