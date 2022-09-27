@@ -54,3 +54,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [[Rebase大学分享] 从 Solidity 到 sCrypt 智能合约： BSV 区块链智能合约开发简介](https://github.com/rebase-network/event-pool/issues/65) 2022-09-19
 - [大理 Hacker House 第一期招募](https://github.com/rebase-network/event-pool/issues/66) 2022-09-19
 - [Oasis Sapphire 黑客松进行时：EVM 兼容隐私如何成为 Web3 中流砥柱](https://github.com/rebase-network/event-pool/issues/67) 2022-09-21
+- [Rebase 大学：去中心化 Blog Planetable 架构详解](https://github.com/rebase-network/event-pool/issues/68) 2022-09-27
