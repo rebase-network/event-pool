@@ -56,3 +56,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Oasis Sapphire 黑客松进行时：EVM 兼容隐私如何成为 Web3 中流砥柱](https://github.com/rebase-network/event-pool/issues/67) 2022-09-21
 - [Rebase 大学：去中心化 Blog Planetable 架构详解](https://github.com/rebase-network/event-pool/issues/68) 2022-09-27
 - [Blockchain Academy 2022 BuidlCamp](https://github.com/rebase-network/event-pool/issues/69) 2022-10-10
+- [Rebase大学分享：JuiceFS，为云设计文件系统的背景、方法与实践](https://github.com/rebase-network/event-pool/issues/70) 2022-10-11
