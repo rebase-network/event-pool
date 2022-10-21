@@ -60,3 +60,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Build social with Arweave data: decent.land mini-hackathon](https://github.com/rebase-network/event-pool/issues/71) 2022-10-14
 - [Web2 to 3 第一站，共学最新智能合约语言 Move](https://github.com/rebase-network/event-pool/issues/72) 2022-10-17
 - [2022年10月 NEAR认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/73) 2022-10-17
+- [Rebase大学｜BNBChain垮链攻击事件深度分析](https://github.com/rebase-network/event-pool/issues/74) 2022-10-21
