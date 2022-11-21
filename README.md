@@ -63,3 +63,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Rebase大学｜BNBChain垮链攻击事件深度分析](https://github.com/rebase-network/event-pool/issues/74) 2022-10-21
 - [BSV 首届零知识证明黑客马拉松](https://github.com/rebase-network/event-pool/issues/75) 2022-11-04
 - [Web2老法师如何玩转Web3——Hamster Space活动](https://github.com/rebase-network/event-pool/issues/76) 2022-11-19
+- [[奇绩创坛] 探索 Web 3.0 × AIGC 交叉领域的创新机会](https://github.com/rebase-network/event-pool/issues/77) 2022-11-21
