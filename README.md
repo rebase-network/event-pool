@@ -38,3 +38,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Web2 老法师如何玩转 Web3——Hamster Space 活动](https://github.com/rebase-network/event-pool/issues/76) 2022-11-19
 - [[奇绩创坛] 探索 Web 3.0 × AIGC 交叉领域的创新机会](https://github.com/rebase-network/event-pool/issues/77) 2022-11-21
 - [Web3Go招募早期建设者！](https://github.com/rebase-network/event-pool/issues/78) 2022-11-30
+- [Aceleap - Web3 创业加速器报名倒计时｜ZONFF Incubation Program](https://github.com/rebase-network/event-pool/issues/79) 2022-12-05
