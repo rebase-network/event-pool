@@ -1,3 +1,5 @@
+[![Twitter](https://img.shields.io/twitter/url?label=Rebase&url=https%3A%2F%2Ftwitter.com%2FRebaseCommunity)](https://twitter.com/RebaseCommunity)
+
 # Event Pool
 
 这里是 Rebase 社区的活动聚集地，活动组织者可以自由发布活动信息。
