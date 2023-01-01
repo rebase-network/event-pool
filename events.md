@@ -55,3 +55,17 @@
 - [大理 Hacker House 第一期招募](https://github.com/rebase-network/event-pool/issues/66) 2022-09-19
 - [Oasis Sapphire 黑客松进行时：EVM 兼容隐私如何成为 Web3 中流砥柱](https://github.com/rebase-network/event-pool/issues/67) 2022-09-21
 - [Rebase 大学：去中心化 Blog Planetable 架构详解](https://github.com/rebase-network/event-pool/issues/68) 2022-09-27
+- [Blockchain Academy 2022 BuidlCamp](https://github.com/rebase-network/event-pool/issues/69) 2022-10-10
+- [Rebase 大学分享：JuiceFS，为云设计文件系统的背景、方法与实践](https://github.com/rebase-network/event-pool/issues/70) 2022-10-11
+- [Build social with Arweave data: decent.land mini-hackathon](https://github.com/rebase-network/event-pool/issues/71) 2022-10-14
+- [Web2 to 3 第一站，共学最新智能合约语言 Move](https://github.com/rebase-network/event-pool/issues/72) 2022-10-17
+- [2022 年 10 月 NEAR 认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/73) 2022-10-17
+- [Rebase 大学｜BNBChain 垮链攻击事件深度分析](https://github.com/rebase-network/event-pool/issues/74) 2022-10-21
+- [BSV 首届零知识证明黑客马拉松](https://github.com/rebase-network/event-pool/issues/75) 2022-11-04
+- [Web2 老法师如何玩转 Web3——Hamster Space 活动](https://github.com/rebase-network/event-pool/issues/76) 2022-11-19
+- [[奇绩创坛] 探索 Web 3.0 × AIGC 交叉领域的创新机会](https://github.com/rebase-network/event-pool/issues/77) 2022-11-21
+- [Web3Go 招募早期建设者！](https://github.com/rebase-network/event-pool/issues/78) 2022-11-30
+- [Aceleap - Web3 创业加速器报名倒计时｜ZONFF Incubation Program](https://github.com/rebase-network/event-pool/issues/79) 2022-12-05
+- [Hamster 第五期圆桌讨论](https://github.com/rebase-network/event-pool/issues/80) 2022-12-1
+
+---

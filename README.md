@@ -30,16 +30,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 
 [往期活动](./events.md)
 
-- [Blockchain Academy 2022 BuidlCamp](https://github.com/rebase-network/event-pool/issues/69) 2022-10-10
-- [Rebase 大学分享：JuiceFS，为云设计文件系统的背景、方法与实践](https://github.com/rebase-network/event-pool/issues/70) 2022-10-11
-- [Build social with Arweave data: decent.land mini-hackathon](https://github.com/rebase-network/event-pool/issues/71) 2022-10-14
-- [Web2 to 3 第一站，共学最新智能合约语言 Move](https://github.com/rebase-network/event-pool/issues/72) 2022-10-17
-- [2022 年 10 月 NEAR 认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/73) 2022-10-17
-- [Rebase 大学｜BNBChain 垮链攻击事件深度分析](https://github.com/rebase-network/event-pool/issues/74) 2022-10-21
-- [BSV 首届零知识证明黑客马拉松](https://github.com/rebase-network/event-pool/issues/75) 2022-11-04
-- [Web2 老法师如何玩转 Web3——Hamster Space 活动](https://github.com/rebase-network/event-pool/issues/76) 2022-11-19
-- [[奇绩创坛] 探索 Web 3.0 × AIGC 交叉领域的创新机会](https://github.com/rebase-network/event-pool/issues/77) 2022-11-21
-- [Web3Go招募早期建设者！](https://github.com/rebase-network/event-pool/issues/78) 2022-11-30
-- [Aceleap - Web3 创业加速器报名倒计时｜ZONFF Incubation Program](https://github.com/rebase-network/event-pool/issues/79) 2022-12-05
-- [Hamster 第五期圆桌讨论](https://github.com/rebase-network/event-pool/issues/80) 2022-12-16
 - [5 分钟零代码，如何创建“任意消息”跨链桥？](https://github.com/rebase-network/event-pool/issues/81) 2023-01-01
