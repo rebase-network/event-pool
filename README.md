@@ -42,3 +42,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Web3Go招募早期建设者！](https://github.com/rebase-network/event-pool/issues/78) 2022-11-30
 - [Aceleap - Web3 创业加速器报名倒计时｜ZONFF Incubation Program](https://github.com/rebase-network/event-pool/issues/79) 2022-12-05
 - [Hamster 第五期圆桌讨论](https://github.com/rebase-network/event-pool/issues/80) 2022-12-16
+- [5 分钟零代码，如何创建“任意消息”跨链桥？](https://github.com/rebase-network/event-pool/issues/81) 2023-01-01
