@@ -34,3 +34,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [2023 首场波卡生态交流会｜成都站](https://github.com/rebase-network/event-pool/issues/82) 2023-01-02
 - [706 Move 共学社区招募 | 深潜 Sui & Aptos 生态，Buidl 2023！](https://github.com/rebase-network/event-pool/issues/83) 2023-01-03
 - [【成都线下】Rebase 2023 成都 workshop](https://github.com/rebase-network/event-pool/issues/84) 2023-01-04
+- [PlatON、阿里云和 HashKey Group 将联合举办 Web3 全球创业大赛 “HAPathon 2023”](https://github.com/rebase-network/event-pool/issues/85) 2023-01-09
