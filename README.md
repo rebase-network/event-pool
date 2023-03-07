@@ -41,3 +41,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [【论文分享】分布式金融(DeFi)攻击与实时防范](https://github.com/rebase-network/event-pool/issues/90) 2023-02-20
 - [ETC Grants DAO 第一轮生态资助计划线下Meetup](https://github.com/rebase-network/event-pool/issues/91) 2023-02-21
 - [ETC Grants DAO 第一轮生态资助计划线下Meetup](https://github.com/rebase-network/event-pool/issues/92) 2023-03-02
+- [Injective 全球黑客马拉松启动](https://github.com/rebase-network/event-pool/issues/93) 2023-03-07
