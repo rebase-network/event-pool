@@ -46,3 +46,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [ TinTin weekly #4](https://github.com/rebase-network/event-pool/issues/95) 2023-03-14
 - [Polkadot 2023 趋势与变局｜2023.04.11｜PolkaWorld & Parity 主办](https://github.com/rebase-network/event-pool/issues/96) 2023-03-16
 - [【对话 TinTin】香港线下见面](https://github.com/rebase-network/event-pool/issues/97) 2023-03-17
+- [Web3青年学者计划第三期分享将于本周二晚8点进行！](https://github.com/rebase-network/event-pool/issues/98) 2023-03-20
