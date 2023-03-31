@@ -49,3 +49,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Web3青年学者计划第三期分享将于本周二晚8点进行！](https://github.com/rebase-network/event-pool/issues/98) 2023-03-20
 - [Foresight X OpenBuild HongKong Hacker House](https://github.com/rebase-network/event-pool/issues/99) 2023-03-21
 - [万物创造营合作宣发](https://github.com/rebase-network/event-pool/issues/100) 2023-03-24
+- [Nervos 和她的朋友们：推动 Web3 大规模采用](https://github.com/rebase-network/event-pool/issues/101) 2023-03-31
