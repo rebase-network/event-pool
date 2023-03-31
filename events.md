@@ -51,7 +51,7 @@
 - [Tintinland“从 0 开始学区块链”课程就即将上线！](https://github.com/rebase-network/event-pool/issues/62) 2022-09-07
 - [Gear Meetup 南京站](https://github.com/rebase-network/event-pool/issues/63) 2022-09-14
 - [2022 年 9 月 NEAR 认证开发者中文课程](https://github.com/rebase-network/event-pool/issues/64) 2022-09-19
-- [[Rebase 大学分享] 从 Solidity 到 sCrypt 智能合约： BSV 区块链智能合约开发简介](https://github.com/rebase-network/event-pool/issues/65) 2022-09-19
+- [[Rebase 大学分享] 从 Solidity 到 sCrypt 智能合约：BSV 区块链智能合约开发简介](https://github.com/rebase-network/event-pool/issues/65) 2022-09-19
 - [大理 Hacker House 第一期招募](https://github.com/rebase-network/event-pool/issues/66) 2022-09-19
 - [Oasis Sapphire 黑客松进行时：EVM 兼容隐私如何成为 Web3 中流砥柱](https://github.com/rebase-network/event-pool/issues/67) 2022-09-21
 - [Rebase 大学：去中心化 Blog Planetable 架构详解](https://github.com/rebase-network/event-pool/issues/68) 2022-09-27
@@ -69,3 +69,15 @@
 - [Hamster 第五期圆桌讨论](https://github.com/rebase-network/event-pool/issues/80) 2022-12-1
 
 ---
+## 2023
+
+- [5 分钟零代码，如何创建“任意消息”跨链桥？](https://github.com/rebase-network/event-pool/issues/81) 2023-01-01
+- [2023 首场波卡生态交流会｜成都站](https://github.com/rebase-network/event-pool/issues/82) 2023-01-02
+- [706 Move 共学社区招募 | 深潜 Sui & Aptos 生态，Buidl 2023！](https://github.com/rebase-network/event-pool/issues/83) 2023-01-03
+- [【成都线下】Rebase 2023 成都 workshop](https://github.com/rebase-network/event-pool/issues/84) 2023-01-04
+- [PlatON、阿里云和 HashKey Group 将联合举办 Web3 全球创业大赛“HAPathon 2023”](https://github.com/rebase-network/event-pool/issues/85) 2023-01-09
+- [【开发者赏金计划】Questflow 联合 MetaTrust 早鸟活动](https://github.com/rebase-network/event-pool/issues/86) 2023-01-16
+- [专注 Web3 社交协议 Lens Protocol 建设的 LensFans 黑客松 2 月开赛，报名开放中](https://github.com/rebase-network/event-pool/issues/87) 2023-01-31
+- [starkware 系黑客松｜通往网络国家——社交、游戏、创作者经济黑客松](https://github.com/rebase-network/event-pool/issues/88) 2023-01-31
+- [【论文分享】分布式金融 (DeFi) 攻击与实时防范](https://github.com/rebase-network/event-pool/issues/90) 2023-02-20
+- [ETC Grants DAO 第一轮生态资助计划线下 Meetup](https://github.com/rebase-network/event-pool/issues/91) 2023-02-21
