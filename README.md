@@ -44,3 +44,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [十二家Web3企业联合线下招聘](https://github.com/rebase-network/event-pool/issues/103) 2023-03-31
 - [Tokenomics 共学社区招募！一起探索加密经济体的运行秩序](https://github.com/rebase-network/event-pool/issues/104) 2023-04-01
 - [技术分享：多链时代，如何一键部署跨链智能合约？](https://github.com/rebase-network/event-pool/issues/105) 2023-04-04
+- [Web3青年学者计划第四期分享将于本周四晚8点进行！](https://github.com/rebase-network/event-pool/issues/106) 2023-04-04
