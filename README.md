@@ -46,3 +46,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [技术分享：多链时代，如何一键部署跨链智能合约？](https://github.com/rebase-network/event-pool/issues/105) 2023-04-04
 - [Web3青年学者计划第四期分享将于本周四晚8点进行！](https://github.com/rebase-network/event-pool/issues/106) 2023-04-04
 - [ZKP零知识证明工作坊](https://github.com/rebase-network/event-pool/issues/107) 2023-04-05
+- [【Invitation】as the supporting community for an AI related activity 4.14 HK](https://github.com/rebase-network/event-pool/issues/108) 2023-04-09
