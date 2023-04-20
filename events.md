@@ -69,6 +69,7 @@
 - [Hamster 第五期圆桌讨论](https://github.com/rebase-network/event-pool/issues/80) 2022-12-1
 
 ---
+
 ## 2023
 
 - [5 分钟零代码，如何创建“任意消息”跨链桥？](https://github.com/rebase-network/event-pool/issues/81) 2023-01-01
