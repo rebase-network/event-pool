@@ -47,4 +47,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Web3 青年学者计划第四期分享将于本周四晚 8 点进行！](https://github.com/rebase-network/event-pool/issues/106) 2023-04-04
 - [ZKP 零知识证明工作坊](https://github.com/rebase-network/event-pool/issues/107) 2023-04-05
 - [【Invitation】as the supporting community for an AI related activity 4.14 HK](https://github.com/rebase-network/event-pool/issues/108) 2023-04-09
-- [KNN3 Transformer 开发者 Bounty 计划](https://github.com/rebase-network/event-pool/issues/110) 2023-04-20
+- [KNN3 Transformer 开发者 Bounty 计划](https://github.com/rebase-network/event-pool/issues/110) 2023-04-20- []() 2023-04-20
