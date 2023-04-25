@@ -49,3 +49,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [【Invitation】as the supporting community for an AI related activity 4.14 HK](https://github.com/rebase-network/event-pool/issues/108) 2023-04-09
 - [KNN3 Transformer 开发者 Bounty 计划](https://github.com/rebase-network/event-pool/issues/110) 2023-04-20
 - [【Web3 Geek Forge】为 Foundry 增加存储相关的作弊码](https://github.com/rebase-network/event-pool/issues/111) 2023-04-25
+- [Web3青年学者计划第五期分享将于本周四上午10点30分进行！](https://github.com/rebase-network/event-pool/issues/112) 2023-04-25
