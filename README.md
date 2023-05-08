@@ -51,3 +51,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [【Web3 Geek Forge】为 Foundry 增加存储相关的作弊码](https://github.com/rebase-network/event-pool/issues/111) 2023-04-25
 - [Web3青年学者计划第五期分享将于本周四上午10点30分进行！](https://github.com/rebase-network/event-pool/issues/112) 2023-04-25
 - [Vara Community Workshop｜武汉站](https://github.com/rebase-network/event-pool/issues/113) 2023-04-26
+- [Web3青年学者计划第六期分享将于本周四晚20点进行！](https://github.com/rebase-network/event-pool/issues/114) 2023-05-08
