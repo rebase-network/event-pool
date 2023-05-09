@@ -53,3 +53,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Vara Community Workshop｜武汉站](https://github.com/rebase-network/event-pool/issues/113) 2023-04-26
 - [Web3青年学者计划第六期分享将于本周四晚20点进行！](https://github.com/rebase-network/event-pool/issues/114) 2023-05-08
 - [【Web3 Geek Forge】Midaswap 的 NFT AMM 设计思想](https://github.com/rebase-network/event-pool/issues/115) 2023-05-09
+- [【Web3 Geek Forge】Dark Forest —— 利用 ZK 的全链上游戏](https://github.com/rebase-network/event-pool/issues/116) 2023-05-09
