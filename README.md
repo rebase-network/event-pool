@@ -57,3 +57,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Gear Academy 志愿者招募！](https://github.com/rebase-network/event-pool/issues/117) 2023-05-14
 - [【Web3 Geek Forge】Web3 信任的灵魂拷问](https://github.com/rebase-network/event-pool/issues/118) 2023-05-19
 - [K.Transformer Bounty开发者计划](https://github.com/rebase-network/event-pool/issues/119) 2023-05-24
+- [2023夏季波卡黑客松大赛报名中](https://github.com/rebase-network/event-pool/issues/120) 2023-05-26
