@@ -59,3 +59,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [K.Transformer Bounty开发者计划](https://github.com/rebase-network/event-pool/issues/119) 2023-05-24
 - [2023夏季波卡黑客松大赛报名中](https://github.com/rebase-network/event-pool/issues/120) 2023-05-26
 - [Rust 共学招募友推](https://github.com/rebase-network/event-pool/issues/121) 2023-05-30
+- [2023 夏季波卡黑客松大赛奖金79.5万美金](https://github.com/rebase-network/event-pool/issues/122) 2023-06-02
