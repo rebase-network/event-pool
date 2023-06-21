@@ -64,3 +64,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [TinTin weekly](https://github.com/rebase-network/event-pool/issues/124) 2023-06-05
 - [🎯K.Transformer 开发者Bounty计划II](https://github.com/rebase-network/event-pool/issues/125) 2023-06-12
 - [LensCN 第 2 期黑客松将于 6 月 15 日开启](https://github.com/rebase-network/event-pool/issues/126) 2023-06-12
+- [Rebase大学｜](https://github.com/rebase-network/event-pool/issues/127) 2023-06-21
