@@ -82,3 +82,26 @@
 - [starkware 系黑客松｜通往网络国家——社交、游戏、创作者经济黑客松](https://github.com/rebase-network/event-pool/issues/88) 2023-01-31
 - [【论文分享】分布式金融 (DeFi) 攻击与实时防范](https://github.com/rebase-network/event-pool/issues/90) 2023-02-20
 - [ETC Grants DAO 第一轮生态资助计划线下 Meetup](https://github.com/rebase-network/event-pool/issues/91) 2023-02-21
+
+
+- [ETC Grants DAO 第一轮生态资助计划线下 Meetup](https://github.com/rebase-network/event-pool/issues/92) 2023-03-02
+- [Injective 全球黑客马拉松启动](https://github.com/rebase-network/event-pool/issues/93) 2023-03-07
+- [Blockbooster Web3.0 社交元宇宙黑客松将于 4 月 7 日至 9 日在香港举行](https://github.com/rebase-network/event-pool/issues/94) 2023-03-08
+- [ TinTin weekly #4](https://github.com/rebase-network/event-pool/issues/95) 2023-03-14
+- [Polkadot 2023 趋势与变局｜2023.04.11｜PolkaWorld & Parity 主办](https://github.com/rebase-network/event-pool/issues/96) 2023-03-16
+- [【对话 TinTin】香港线下见面](https://github.com/rebase-network/event-pool/issues/97) 2023-03-17
+- [Web3 青年学者计划第三期分享将于本周二晚 8 点进行！](https://github.com/rebase-network/event-pool/issues/98) 2023-03-20
+- [Foresight X OpenBuild HongKong Hacker House](https://github.com/rebase-network/event-pool/issues/99) 2023-03-21
+- [万物创造营，遇见合伙人](https://github.com/rebase-network/event-pool/issues/100) 2023-03-24
+- [Nervos 和她的朋友们：推动 Web3 大规模采用](https://github.com/rebase-network/event-pool/issues/101) 2023-03-31
+- [[大理] 利用 ChatGPT 在 Web3 低成本创业](https://github.com/rebase-network/event-pool/issues/102) 2023-03-31
+- [十二家 Web3 企业联合线下招聘](https://github.com/rebase-network/event-pool/issues/103) 2023-03-31
+- [Tokenomics 共学社区招募！一起探索加密经济体的运行秩序](https://github.com/rebase-network/event-pool/issues/104) 2023-04-01
+- [技术分享：多链时代，如何一键部署跨链智能合约？](https://github.com/rebase-network/event-pool/issues/105) 2023-04-04
+- [Web3 青年学者计划第四期分享将于本周四晚 8 点进行！](https://github.com/rebase-network/event-pool/issues/106) 2023-04-04
+- [ZKP 零知识证明工作坊](https://github.com/rebase-network/event-pool/issues/107) 2023-04-05
+- [【Invitation】as the supporting community for an AI related activity 4.14 HK](https://github.com/rebase-network/event-pool/issues/108) 2023-04-09
+- [KNN3 Transformer 开发者 Bounty 计划](https://github.com/rebase-network/event-pool/issues/110) 2023-04-20
+- [【Web3 Geek Forge】为 Foundry 增加存储相关的作弊码](https://github.com/rebase-network/event-pool/issues/111) 2023-04-25
+- [Web3 青年学者计划第五期分享将于本周四上午 10 点 30 分进行！](https://github.com/rebase-network/event-pool/issues/112) 2023-04-25
+- [Vara Community Workshop｜武汉站](https://github.com/rebase-network/event-pool/issues/113) 2023-04-26

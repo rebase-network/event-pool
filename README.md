@@ -30,38 +30,17 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 
 [往期活动](./events.md)
 
-- [ETC Grants DAO 第一轮生态资助计划线下 Meetup](https://github.com/rebase-network/event-pool/issues/92) 2023-03-02
-- [Injective 全球黑客马拉松启动](https://github.com/rebase-network/event-pool/issues/93) 2023-03-07
-- [Blockbooster Web3.0 社交元宇宙黑客松将于 4 月 7 日至 9 日在香港举行](https://github.com/rebase-network/event-pool/issues/94) 2023-03-08
-- [ TinTin weekly #4](https://github.com/rebase-network/event-pool/issues/95) 2023-03-14
-- [Polkadot 2023 趋势与变局｜2023.04.11｜PolkaWorld & Parity 主办](https://github.com/rebase-network/event-pool/issues/96) 2023-03-16
-- [【对话 TinTin】香港线下见面](https://github.com/rebase-network/event-pool/issues/97) 2023-03-17
-- [Web3 青年学者计划第三期分享将于本周二晚 8 点进行！](https://github.com/rebase-network/event-pool/issues/98) 2023-03-20
-- [Foresight X OpenBuild HongKong Hacker House](https://github.com/rebase-network/event-pool/issues/99) 2023-03-21
-- [万物创造营，遇见合伙人](https://github.com/rebase-network/event-pool/issues/100) 2023-03-24
-- [Nervos 和她的朋友们：推动 Web3 大规模采用](https://github.com/rebase-network/event-pool/issues/101) 2023-03-31
-- [[大理] 利用 ChatGPT 在 Web3 低成本创业](https://github.com/rebase-network/event-pool/issues/102) 2023-03-31
-- [十二家 Web3 企业联合线下招聘](https://github.com/rebase-network/event-pool/issues/103) 2023-03-31
-- [Tokenomics 共学社区招募！一起探索加密经济体的运行秩序](https://github.com/rebase-network/event-pool/issues/104) 2023-04-01
-- [技术分享：多链时代，如何一键部署跨链智能合约？](https://github.com/rebase-network/event-pool/issues/105) 2023-04-04
-- [Web3 青年学者计划第四期分享将于本周四晚 8 点进行！](https://github.com/rebase-network/event-pool/issues/106) 2023-04-04
-- [ZKP 零知识证明工作坊](https://github.com/rebase-network/event-pool/issues/107) 2023-04-05
-- [【Invitation】as the supporting community for an AI related activity 4.14 HK](https://github.com/rebase-network/event-pool/issues/108) 2023-04-09
-- [KNN3 Transformer 开发者 Bounty 计划](https://github.com/rebase-network/event-pool/issues/110) 2023-04-20
-- [【Web3 Geek Forge】为 Foundry 增加存储相关的作弊码](https://github.com/rebase-network/event-pool/issues/111) 2023-04-25
-- [Web3青年学者计划第五期分享将于本周四上午10点30分进行！](https://github.com/rebase-network/event-pool/issues/112) 2023-04-25
-- [Vara Community Workshop｜武汉站](https://github.com/rebase-network/event-pool/issues/113) 2023-04-26
-- [Web3青年学者计划第六期分享将于本周四晚20点进行！](https://github.com/rebase-network/event-pool/issues/114) 2023-05-08
+- [Web3 青年学者计划第六期分享将于本周四晚 20 点进行！](https://github.com/rebase-network/event-pool/issues/114) 2023-05-08
 - [【Web3 Geek Forge】Midaswap 的 NFT AMM 设计思想](https://github.com/rebase-network/event-pool/issues/115) 2023-05-09
 - [【Web3 Geek Forge】Dark Forest —— 利用 ZK 的全链上游戏](https://github.com/rebase-network/event-pool/issues/116) 2023-05-09
 - [Gear Academy 志愿者招募！](https://github.com/rebase-network/event-pool/issues/117) 2023-05-14
 - [【Web3 Geek Forge】Web3 信任的灵魂拷问](https://github.com/rebase-network/event-pool/issues/118) 2023-05-19
-- [K.Transformer Bounty开发者计划](https://github.com/rebase-network/event-pool/issues/119) 2023-05-24
-- [2023夏季波卡黑客松大赛报名中](https://github.com/rebase-network/event-pool/issues/120) 2023-05-26
+- [K.Transformer Bounty 开发者计划](https://github.com/rebase-network/event-pool/issues/119) 2023-05-24
+- [2023 夏季波卡黑客松大赛报名中](https://github.com/rebase-network/event-pool/issues/120) 2023-05-26
 - [Rust 共学招募友推](https://github.com/rebase-network/event-pool/issues/121) 2023-05-30
-- [2023 夏季波卡黑客松大赛奖金79.5万美金](https://github.com/rebase-network/event-pool/issues/122) 2023-06-02
-- [2023 夏季波卡黑客松创业大赛奖金升级79.5万美金](https://github.com/rebase-network/event-pool/issues/123) 2023-06-02
+- [2023 夏季波卡黑客松大赛奖金 79.5 万美金](https://github.com/rebase-network/event-pool/issues/122) 2023-06-02
+- [2023 夏季波卡黑客松创业大赛奖金升级 79.5 万美金](https://github.com/rebase-network/event-pool/issues/123) 2023-06-02
 - [TinTin weekly](https://github.com/rebase-network/event-pool/issues/124) 2023-06-05
-- [🎯K.Transformer 开发者Bounty计划II](https://github.com/rebase-network/event-pool/issues/125) 2023-06-12
+- [🎯K.Transformer 开发者 Bounty 计划 II](https://github.com/rebase-network/event-pool/issues/125) 2023-06-12
 - [LensCN 第 2 期黑客松将于 6 月 15 日开启](https://github.com/rebase-network/event-pool/issues/126) 2023-06-12
-- [Rebase大学｜](https://github.com/rebase-network/event-pool/issues/127) 2023-06-21
+- [Web3 时代的隐私守护者：数据隐私与加密技术的不可或缺性](https://github.com/rebase-network/event-pool/issues/127) 2023-06-21
