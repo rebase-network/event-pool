@@ -45,3 +45,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [LensCN 第 2 期黑客松将于 6 月 15 日开启](https://github.com/rebase-network/event-pool/issues/126) 2023-06-12
 - [Web3 时代的隐私守护者：数据隐私与加密技术的不可或缺性](https://github.com/rebase-network/event-pool/issues/127) 2023-06-21
 - [moonlight builder workshop 第四期, from OneBlock+](https://github.com/rebase-network/event-pool/issues/128) 2023-06-25
+- [Vara Meetup 武汉站正式开启报名！](https://github.com/rebase-network/event-pool/issues/129) 2023-06-30
