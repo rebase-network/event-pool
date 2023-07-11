@@ -47,3 +47,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [moonlight builder workshop 第四期, from OneBlock+](https://github.com/rebase-network/event-pool/issues/128) 2023-06-25
 - [Vara Meetup 武汉站正式开启报名！](https://github.com/rebase-network/event-pool/issues/129) 2023-06-30
 - [Polkadot 未来论坛｜上海站开始报名！](https://github.com/rebase-network/event-pool/issues/130) 2023-07-10
+- [Neo 与 OKX 联合举办亚太区黑客马拉松](https://github.com/rebase-network/event-pool/issues/131) 2023-07-11
