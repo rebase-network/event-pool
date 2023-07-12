@@ -48,3 +48,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Vara Meetup 武汉站正式开启报名！](https://github.com/rebase-network/event-pool/issues/129) 2023-06-30
 - [Polkadot 未来论坛｜上海站开始报名！](https://github.com/rebase-network/event-pool/issues/130) 2023-07-10
 - [Neo 与 OKX 联合举办亚太区黑客马拉松](https://github.com/rebase-network/event-pool/issues/131) 2023-07-11
+- [Explore zkRollup Today and Tomorrow](https://github.com/rebase-network/event-pool/issues/132) 2023-07-12
