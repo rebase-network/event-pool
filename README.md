@@ -50,3 +50,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Neo 与 OKX 联合举办亚太区黑客马拉松](https://github.com/rebase-network/event-pool/issues/131) 2023-07-11
 - [Explore zkRollup Today and Tomorrow](https://github.com/rebase-network/event-pool/issues/132) 2023-07-12
 - [3WW3 社区开放日【技术开发者专场】](https://github.com/rebase-network/event-pool/issues/133) 2023-07-15
+- [PTADAO｜从叙事到开发——深度解析全链游戏](https://github.com/rebase-network/event-pool/issues/134) 2023-07-20
