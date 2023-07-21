@@ -51,3 +51,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Explore zkRollup Today and Tomorrow](https://github.com/rebase-network/event-pool/issues/132) 2023-07-12
 - [3WW3 社区开放日【技术开发者专场】](https://github.com/rebase-network/event-pool/issues/133) 2023-07-15
 - [PTADAO｜从叙事到开发——深度解析全链游戏](https://github.com/rebase-network/event-pool/issues/134) 2023-07-20
+- [ETC首期生态激励计划结果公布 ](https://github.com/rebase-network/event-pool/issues/135) 2023-07-21
