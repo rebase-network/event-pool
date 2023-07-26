@@ -24,7 +24,7 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 
 **注：我们不保证您的活动一定会被同步到 Rebase 社区的各个媒体渠道，如果我们发现相关活动不符合社区的价值观，我们随时保持删除您的活动的权利。**
 
-如果有任何问题和建议，可以[加入 discord 群](https://discord.gg/c6BfH8JQn6) 讨论。
+如果有任何问题和建议，可以[加入 Discord ](https://discord.gg/c6BfH8JQn6) 或 [加入电报群](https://t.me/rebasenetwork)讨论。
 
 ## Events
 
