@@ -53,3 +53,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [PTADAO｜从叙事到开发——深度解析全链游戏](https://github.com/rebase-network/event-pool/issues/134) 2023-07-20
 - [ETC首期生态激励计划结果公布 ](https://github.com/rebase-network/event-pool/issues/135) 2023-07-21
 - [8月19日在上海举办 RubyConf China 2023](https://github.com/rebase-network/event-pool/issues/136) 2023-08-03
+- [支持华语区公共物品！GCC在GR18发起5000专题捐赠](https://github.com/rebase-network/event-pool/issues/137) 2023-08-11
