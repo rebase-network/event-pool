@@ -54,3 +54,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [ETC首期生态激励计划结果公布 ](https://github.com/rebase-network/event-pool/issues/135) 2023-07-21
 - [8月19日在上海举办 RubyConf China 2023](https://github.com/rebase-network/event-pool/issues/136) 2023-08-03
 - [支持华语区公共物品！GCC在GR18发起5000专题捐赠](https://github.com/rebase-network/event-pool/issues/137) 2023-08-11
+- [开发者的选择：加入Sei生态的机会与动力](https://github.com/rebase-network/event-pool/issues/138) 2023-08-16
