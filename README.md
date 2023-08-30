@@ -60,3 +60,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [TinTin DESTINATION MOON：Web3 Dev Summit Shanghai 2023](https://github.com/rebase-network/event-pool/issues/141) 2023-08-21
 - [Rebase HackerHouse in Singapore](https://github.com/rebase-network/event-pool/issues/142) 2023-08-23
 - [构建 Non-EVM 生态：Gear‘s Hacker House](https://github.com/rebase-network/event-pool/issues/143) 2023-08-26
+- [BlockPI Network账户抽象圆桌讨论会](https://github.com/rebase-network/event-pool/issues/144) 2023-08-30
