@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  issue-manager:
+  newevent:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -21,7 +21,7 @@ jobs:
           git config --local user.name ${{ github.actor }}
           git config --local user.email "bot@rebase.community"
           git add README.md
-          git commit -m "(Automated) Update README.md"
+          git commit -m "submit new event (Automated)"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
