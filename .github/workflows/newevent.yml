@@ -35,7 +35,7 @@ jobs:
 
   push-telegram:
     runs-on: ubuntu-latest
-    needs: issue-manager
+    needs: newevent
     steps:
       - name: Send to telegram
         uses: appleboy/telegram-action@master
@@ -49,7 +49,7 @@ jobs:
   new-discussion:
     permissions: write-all
     runs-on: ubuntu-latest
-    needs: issue-manager
+    needs: newevent
     steps:
       - run: |
           gh api -i graphql -f query='
