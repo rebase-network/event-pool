@@ -30,28 +30,6 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 
 [往期活动](./events.md)
 
-- [Web3 青年学者计划第六期分享将于本周四晚 20 点进行！](https://github.com/rebase-network/event-pool/issues/114) 2023-05-08
-- [【Web3 Geek Forge】Midaswap 的 NFT AMM 设计思想](https://github.com/rebase-network/event-pool/issues/115) 2023-05-09
-- [【Web3 Geek Forge】Dark Forest —— 利用 ZK 的全链上游戏](https://github.com/rebase-network/event-pool/issues/116) 2023-05-09
-- [Gear Academy 志愿者招募！](https://github.com/rebase-network/event-pool/issues/117) 2023-05-14
-- [【Web3 Geek Forge】Web3 信任的灵魂拷问](https://github.com/rebase-network/event-pool/issues/118) 2023-05-19
-- [K.Transformer Bounty 开发者计划](https://github.com/rebase-network/event-pool/issues/119) 2023-05-24
-- [2023 夏季波卡黑客松大赛报名中](https://github.com/rebase-network/event-pool/issues/120) 2023-05-26
-- [Rust 共学招募友推](https://github.com/rebase-network/event-pool/issues/121) 2023-05-30
-- [2023 夏季波卡黑客松大赛奖金 79.5 万美金](https://github.com/rebase-network/event-pool/issues/122) 2023-06-02
-- [2023 夏季波卡黑客松创业大赛奖金升级 79.5 万美金](https://github.com/rebase-network/event-pool/issues/123) 2023-06-02
-- [TinTin weekly](https://github.com/rebase-network/event-pool/issues/124) 2023-06-05
-- [🎯K.Transformer 开发者 Bounty 计划 II](https://github.com/rebase-network/event-pool/issues/125) 2023-06-12
-- [LensCN 第 2 期黑客松将于 6 月 15 日开启](https://github.com/rebase-network/event-pool/issues/126) 2023-06-12
-- [Web3 时代的隐私守护者：数据隐私与加密技术的不可或缺性](https://github.com/rebase-network/event-pool/issues/127) 2023-06-21
-- [moonlight builder workshop 第四期, from OneBlock+](https://github.com/rebase-network/event-pool/issues/128) 2023-06-25
-- [Vara Meetup 武汉站正式开启报名！](https://github.com/rebase-network/event-pool/issues/129) 2023-06-30
-- [Polkadot 未来论坛｜上海站开始报名！](https://github.com/rebase-network/event-pool/issues/130) 2023-07-10
-- [Neo 与 OKX 联合举办亚太区黑客马拉松](https://github.com/rebase-network/event-pool/issues/131) 2023-07-11
-- [Explore zkRollup Today and Tomorrow](https://github.com/rebase-network/event-pool/issues/132) 2023-07-12
-- [3WW3 社区开放日【技术开发者专场】](https://github.com/rebase-network/event-pool/issues/133) 2023-07-15
-- [PTADAO｜从叙事到开发——深度解析全链游戏](https://github.com/rebase-network/event-pool/issues/134) 2023-07-20
-- [ETC首期生态激励计划结果公布 ](https://github.com/rebase-network/event-pool/issues/135) 2023-07-21
 - [8月19日在上海举办 RubyConf China 2023](https://github.com/rebase-network/event-pool/issues/136) 2023-08-03
 - [支持华语区公共物品！GCC在GR18发起5000专题捐赠](https://github.com/rebase-network/event-pool/issues/137) 2023-08-11
 - [开发者的选择：加入Sei生态的机会与动力](https://github.com/rebase-network/event-pool/issues/138) 2023-08-16
@@ -62,3 +40,5 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [构建 Non-EVM 生态：Gear‘s Hacker House](https://github.com/rebase-network/event-pool/issues/143) 2023-08-26
 - [BlockPI Network账户抽象圆桌讨论会](https://github.com/rebase-network/event-pool/issues/144) 2023-08-30
 - [Rust唠嗑室](https://github.com/rebase-network/event-pool/issues/145) 2023-09-01
+- [Zuzalu Singapore's hackerhouse](https://github.com/rebase-network/event-pool/issues/146) 2023-09-09
+- [女性web3新手村-广州站 招募](https://github.com/rebase-network/event-pool/issues/147) 2023-09-11
