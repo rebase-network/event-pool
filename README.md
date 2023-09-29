@@ -43,3 +43,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Zuzalu Singapore's hackerhouse](https://github.com/rebase-network/event-pool/issues/146) 2023-09-09
 - [女性web3新手村-广州站 招募](https://github.com/rebase-network/event-pool/issues/147) 2023-09-11
 - [Substrate区块链开发入门](https://github.com/rebase-network/event-pool/issues/148) 2023-09-27
+- [Our Polis：2023 SeeDAO 土耳其生态发布会团队招募令](https://github.com/rebase-network/event-pool/issues/149) 2023-09-29
