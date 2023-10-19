@@ -46,3 +46,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Our Polis：2023 SeeDAO 土耳其生态发布会团队招募令](https://github.com/rebase-network/event-pool/issues/149) 2023-09-29
 - [OpenBuild 公开课#1｜模块化区块链公开课招募](https://github.com/rebase-network/event-pool/issues/150) 2023-10-11
 - [首届Web3学者峰会在香港数码港举办！Web3学术界与产业界大咖云集](https://github.com/rebase-network/event-pool/issues/151) 2023-10-19
+- [HK Web3 Evolution](https://github.com/rebase-network/event-pool/issues/152) 2023-10-19
