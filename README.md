@@ -51,3 +51,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [硬核议程公布！首届Web3学者峰会：学术、产业与VC精英共议Web3机遇](https://github.com/rebase-network/event-pool/issues/154) 2023-10-31
 - [2023 冬季波卡黑客松开启报名！](https://github.com/rebase-network/event-pool/issues/155) 2023-11-01
 - [Rebuild Ownership 2.0: Internet Privacy](https://github.com/rebase-network/event-pool/issues/156) 2023-11-02
+- [从比特币应用编程理解 CKB 的可编程性](https://github.com/rebase-network/event-pool/issues/157) 2023-11-03
