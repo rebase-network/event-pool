@@ -54,3 +54,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [从比特币应用编程理解 CKB 的可编程性](https://github.com/rebase-network/event-pool/issues/157) 2023-11-03
 - [Co-marketing support to Builders Voyage ](https://github.com/rebase-network/event-pool/issues/158) 2023-11-10
 - [Solidity Bootcamp来袭 | 一起学习 Web3 最流行的编程语言 Solidity](https://github.com/rebase-network/event-pool/issues/159) 2023-11-10
+- [Web3 英语共学第二期招募 | 世界公民的“听说”之旅](https://github.com/rebase-network/event-pool/issues/160) 2023-11-15
