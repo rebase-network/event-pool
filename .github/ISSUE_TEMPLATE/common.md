@@ -1,6 +1,6 @@
 ---
 name: 通用活动模板
-about: 通用活动模板
+about: Rebase社区会将活动信息转发到公众号
 title: ''
 labels: ''
 assignees: ''
