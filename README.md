@@ -57,3 +57,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Web3 英语共学第二期招募 | 世界公民的“听说”之旅](https://github.com/rebase-network/event-pool/issues/160) 2023-11-15
 - [5城联动，2023 Solidity Mini-Hackerhouse开放报名 宣发](https://github.com/rebase-network/event-pool/issues/161) 2023-12-19
 - [2024 Move 开发者大会](https://github.com/rebase-network/event-pool/issues/162) 2023-12-27
+- [OpenBuild 公开课系列｜TON 开发从入门到应用](https://github.com/rebase-network/event-pool/issues/163) 2024-01-04
