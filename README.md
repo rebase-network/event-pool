@@ -59,3 +59,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [2024 Move 开发者大会](https://github.com/rebase-network/event-pool/issues/162) 2023-12-27
 - [OpenBuild 公开课系列｜TON 开发从入门到应用](https://github.com/rebase-network/event-pool/issues/163) 2024-01-04
 - [Starbase](https://github.com/rebase-network/event-pool/issues/164) 2024-01-19
+- [Starbase Accelerator](https://github.com/rebase-network/event-pool/issues/165) 2024-01-19
