@@ -62,3 +62,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Starbase Accelerator](https://github.com/rebase-network/event-pool/issues/165) 2024-01-19
 - [决战金三银四，Web3 开发者求职公开课助你赢得高薪 Offer](https://github.com/rebase-network/event-pool/issues/166) 2024-02-19
 - [线下活动开启报名｜把握 2024 年链游风口](https://github.com/rebase-network/event-pool/issues/167) 2024-03-07
+- [RockTree Capital OG Talks 石木资本线下闭门会议](https://github.com/rebase-network/event-pool/issues/168) 2024-04-01
