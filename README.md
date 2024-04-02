@@ -64,3 +64,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [线下活动开启报名｜把握 2024 年链游风口](https://github.com/rebase-network/event-pool/issues/167) 2024-03-07
 - [RockTree Capital OG Talks 石木资本线下闭门会议](https://github.com/rebase-network/event-pool/issues/168) 2024-04-01
 - [RockTree Capital OG Talks 石木资本线下闭门会议—杭州站](https://github.com/rebase-network/event-pool/issues/169) 2024-04-01
+- [EIP Fun 分享会：L2/ StarkNet 降费深度分析](https://github.com/rebase-network/event-pool/issues/170) 2024-04-02
