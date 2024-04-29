@@ -67,3 +67,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [EIP Fun 分享会：L2/ StarkNet 降费深度分析](https://github.com/rebase-network/event-pool/issues/170) 2024-04-02
 - [第三届机械自动化与工程材料国际会议 征稿通知](https://github.com/rebase-network/event-pool/issues/171) 2024-04-12
 - [第八届计算科学与应用国际学术会议 (CSAE 2024)  征稿通知](https://github.com/rebase-network/event-pool/issues/172) 2024-04-15
+- [从执行层客户端代码解析 EIP-4844](https://github.com/rebase-network/event-pool/issues/173) 2024-04-29
