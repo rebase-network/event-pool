@@ -69,3 +69,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [第八届计算科学与应用国际学术会议 (CSAE 2024)  征稿通知](https://github.com/rebase-network/event-pool/issues/172) 2024-04-15
 - [从执行层客户端代码解析 EIP-4844](https://github.com/rebase-network/event-pool/issues/173) 2024-04-29
 - [北京 Workshop 报名开启：GameFi Exploration & DApp Building](https://github.com/rebase-network/event-pool/issues/174) 2024-05-12
+- [勇者终局：原生加密基础模型](https://github.com/rebase-network/event-pool/issues/175) 2024-05-14
