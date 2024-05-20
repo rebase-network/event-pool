@@ -71,3 +71,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [北京 Workshop 报名开启：GameFi Exploration & DApp Building](https://github.com/rebase-network/event-pool/issues/174) 2024-05-12
 - [勇者终局：原生加密基础模型](https://github.com/rebase-network/event-pool/issues/175) 2024-05-14
 - [《Substrate区块链开发入门》新课宣传](https://github.com/rebase-network/event-pool/issues/176) 2024-05-16
+- [DePIN 硬汉之力 AMA: 与行业专家讨论去中心化基础设施网络的未来](https://github.com/rebase-network/event-pool/issues/177) 2024-05-20
