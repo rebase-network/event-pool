@@ -121,11 +121,46 @@
 - [🎯K.Transformer 开发者 Bounty 计划 II](https://github.com/rebase-network/event-pool/issues/125) 2023-06-12
 - [LensCN 第 2 期黑客松将于 6 月 15 日开启](https://github.com/rebase-network/event-pool/issues/126) 2023-06-12
 - [Web3 时代的隐私守护者：数据隐私与加密技术的不可或缺性](https://github.com/rebase-network/event-pool/issues/127) 2023-06-21
-- [moonlight builder workshop 第四期, from OneBlock+](https://github.com/rebase-network/event-pool/issues/128) 2023-06-25
+- [moonlight builder workshop 第四期，from OneBlock+](https://github.com/rebase-network/event-pool/issues/128) 2023-06-25
 - [Vara Meetup 武汉站正式开启报名！](https://github.com/rebase-network/event-pool/issues/129) 2023-06-30
 - [Polkadot 未来论坛｜上海站开始报名！](https://github.com/rebase-network/event-pool/issues/130) 2023-07-10
 - [Neo 与 OKX 联合举办亚太区黑客马拉松](https://github.com/rebase-network/event-pool/issues/131) 2023-07-11
 - [Explore zkRollup Today and Tomorrow](https://github.com/rebase-network/event-pool/issues/132) 2023-07-12
 - [3WW3 社区开放日【技术开发者专场】](https://github.com/rebase-network/event-pool/issues/133) 2023-07-15
 - [PTADAO｜从叙事到开发——深度解析全链游戏](https://github.com/rebase-network/event-pool/issues/134) 2023-07-20
-- [ETC首期生态激励计划结果公布 ](https://github.com/rebase-network/event-pool/issues/135) 2023-07-21
+- [ETC 首期生态激励计划结果公布 ](https://github.com/rebase-network/event-pool/issues/135) 2023-07-21
+- [8 月 19 日在上海举办 RubyConf China 2023](https://github.com/rebase-network/event-pool/issues/136) 2023-08-03
+- [支持华语区公共物品！GCC 在 GR18 发起 5000 专题捐赠](https://github.com/rebase-network/event-pool/issues/137) 2023-08-11
+- [开发者的选择：加入 Sei 生态的机会与动力](https://github.com/rebase-network/event-pool/issues/138) 2023-08-16
+- [Sui 流动性质押黑客松开启报名](https://github.com/rebase-network/event-pool/issues/139) 2023-08-18
+- [Web3 私域社交：革命性进展还是短暂潮流？](https://github.com/rebase-network/event-pool/issues/140) 2023-08-21
+- [TinTin DESTINATION MOON：Web3 Dev Summit Shanghai 2023](https://github.com/rebase-network/event-pool/issues/141) 2023-08-21
+- [Rebase HackerHouse in Singapore](https://github.com/rebase-network/event-pool/issues/142) 2023-08-23
+- [构建 Non-EVM 生态：Gear‘s Hacker House](https://github.com/rebase-network/event-pool/issues/143) 2023-08-26
+- [BlockPI Network 账户抽象圆桌讨论会](https://github.com/rebase-network/event-pool/issues/144) 2023-08-30
+- [Rust 唠嗑室](https://github.com/rebase-network/event-pool/issues/145) 2023-09-01
+- [Zuzalu Singapore's hackerhouse](https://github.com/rebase-network/event-pool/issues/146) 2023-09-09
+- [女性 web3 新手村 - 广州站 招募](https://github.com/rebase-network/event-pool/issues/147) 2023-09-11
+- [Substrate 区块链开发入门](https://github.com/rebase-network/event-pool/issues/148) 2023-09-27
+- [Our Polis：2023 SeeDAO 土耳其生态发布会团队招募令](https://github.com/rebase-network/event-pool/issues/149) 2023-09-29
+- [OpenBuild 公开课#1｜模块化区块链公开课招募](https://github.com/rebase-network/event-pool/issues/150) 2023-10-11
+- [首届 Web3 学者峰会在香港数码港举办！Web3 学术界与产业界大咖云集](https://github.com/rebase-network/event-pool/issues/151) 2023-10-19
+- [HK Web3 Evolution](https://github.com/rebase-network/event-pool/issues/152) 2023-10-19
+- [Road to DEVCON Hong Kong｜一同探索以太坊的未来之路！](https://github.com/rebase-network/event-pool/issues/153) 2023-10-21
+- [硬核议程公布！首届 Web3 学者峰会：学术、产业与 VC 精英共议 Web3 机遇](https://github.com/rebase-network/event-pool/issues/154) 2023-10-31
+- [2023 冬季波卡黑客松开启报名！](https://github.com/rebase-network/event-pool/issues/155) 2023-11-01
+- [Rebuild Ownership 2.0: Internet Privacy](https://github.com/rebase-network/event-pool/issues/156) 2023-11-02
+- [从比特币应用编程理解 CKB 的可编程性](https://github.com/rebase-network/event-pool/issues/157) 2023-11-03
+- [Co-marketing support to Builders Voyage ](https://github.com/rebase-network/event-pool/issues/158) 2023-11-10
+- [Solidity Bootcamp 来袭 | 一起学习 Web3 最流行的编程语言 Solidity](https://github.com/rebase-network/event-pool/issues/159) 2023-11-10
+- [Web3 英语共学第二期招募 | 世界公民的“听说”之旅](https://github.com/rebase-network/event-pool/issues/160) 2023-11-15
+- [5 城联动，2023 Solidity Mini-Hackerhouse 开放报名 宣发](https://github.com/rebase-network/event-pool/issues/161) 2023-12-19
+- [2024 Move 开发者大会](https://github.com/rebase-network/event-pool/issues/162) 2023-12-27
+
+## 2024
+
+- [OpenBuild 公开课系列｜TON 开发从入门到应用](https://github.com/rebase-network/event-pool/issues/163) 2024-01-04
+- [Starbase](https://github.com/rebase-network/event-pool/issues/164) 2024-01-19
+- [Starbase Accelerator](https://github.com/rebase-network/event-pool/issues/165) 2024-01-19
+- [决战金三银四，Web3 开发者求职公开课助你赢得高薪 Offer](https://github.com/rebase-network/event-pool/issues/166) 2024-02-19
+- [线下活动开启报名｜把握 2024 年链游风口](https://github.com/rebase-network/event-pool/issues/167) 2024-03-07
