@@ -44,3 +44,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [AI 加速者：io.net 的 GPU 网络带来了全新格局吗？](https://github.com/rebase-network/event-pool/issues/179) 2024-05-22
 - [5 月 25 日20:00深入探索 Vara Network 的智能合约构建路径](https://github.com/rebase-network/event-pool/issues/180) 2024-05-24
 - [职业前景探讨：Web3行业的“星辰大海”在哪里？](https://github.com/rebase-network/event-pool/issues/181) 2024-07-15
+- [Airdrop 2049：全新周期下，空投的机遇与挑战](https://github.com/rebase-network/event-pool/issues/182) 2024-07-22
