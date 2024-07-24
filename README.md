@@ -46,3 +46,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [职业前景探讨：Web3行业的“星辰大海”在哪里？](https://github.com/rebase-network/event-pool/issues/181) 2024-07-15
 - [Airdrop 2049：全新周期下，空投的机遇与挑战](https://github.com/rebase-network/event-pool/issues/182) 2024-07-22
 - [Cyperpunk 辩论赛](https://github.com/rebase-network/event-pool/issues/183) 2024-07-24
+- [LXDAO 发起 ZK 残酷共学报名开启](https://github.com/rebase-network/event-pool/issues/184) 2024-07-24
