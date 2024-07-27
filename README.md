@@ -47,3 +47,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Airdrop 2049：全新周期下，空投的机遇与挑战](https://github.com/rebase-network/event-pool/issues/182) 2024-07-22
 - [Cyperpunk 辩论赛](https://github.com/rebase-network/event-pool/issues/183) 2024-07-24
 - [LXDAO 发起 ZK 残酷共学报名开启](https://github.com/rebase-network/event-pool/issues/184) 2024-07-24
+- [HYPER PARALLEL Arweave & AO 生态亚洲城际穿梭之旅(北京站）](https://github.com/rebase-network/event-pool/issues/185) 2024-07-27
