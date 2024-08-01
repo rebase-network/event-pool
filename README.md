@@ -49,3 +49,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [LXDAO 发起 ZK 残酷共学报名开启](https://github.com/rebase-network/event-pool/issues/184) 2024-07-24
 - [HYPER PARALLEL Arweave & AO 生态亚洲城际穿梭之旅(北京站）](https://github.com/rebase-network/event-pool/issues/185) 2024-07-27
 - [Substrate开发进阶与项目实战课第8期正式开启报名！](https://github.com/rebase-network/event-pool/issues/186) 2024-07-31
+- [Eclipse首届黑客马拉松-Total Eclipse挑战赛](https://github.com/rebase-network/event-pool/issues/187) 2024-08-01
