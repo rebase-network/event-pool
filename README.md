@@ -52,3 +52,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Eclipse首届黑客马拉松-Total Eclipse挑战赛](https://github.com/rebase-network/event-pool/issues/187) 2024-08-01
 - [Mina Protocol：以万物证明构建一个植根于信任和可验证的互联网](https://github.com/rebase-network/event-pool/issues/188) 2024-08-07
 - [LXDAO 分享会：ETH 又迎新低点， 2024 它还能诞生出哪些标志性的应用与创新？](https://github.com/rebase-network/event-pool/issues/189) 2024-08-08
+- [2024 波卡黑客松大赛第5、6场 Workshop 来啦！](https://github.com/rebase-network/event-pool/issues/190) 2024-08-09
