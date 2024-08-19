@@ -54,3 +54,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [LXDAO 分享会：ETH 又迎新低点， 2024 它还能诞生出哪些标志性的应用与创新？](https://github.com/rebase-network/event-pool/issues/189) 2024-08-08
 - [2024 波卡黑客松大赛第5、6场 Workshop 来啦！](https://github.com/rebase-network/event-pool/issues/190) 2024-08-09
 - [DeFi 残酷共学启航：探索与迸发](https://github.com/rebase-network/event-pool/issues/191) 2024-08-14
+- [与DePHY对话：开源硬件与区块链的完美结合](https://github.com/rebase-network/event-pool/issues/192) 2024-08-19
