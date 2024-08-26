@@ -55,3 +55,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [2024 波卡黑客松大赛第5、6场 Workshop 来啦！](https://github.com/rebase-network/event-pool/issues/190) 2024-08-09
 - [DeFi 残酷共学启航：探索与迸发](https://github.com/rebase-network/event-pool/issues/191) 2024-08-14
 - [与DePHY对话：开源硬件与区块链的完美结合](https://github.com/rebase-network/event-pool/issues/192) 2024-08-19
+- [如何有效利用区块链的“乐高积木”——Pallets构建你的理想应用？](https://github.com/rebase-network/event-pool/issues/193) 2024-08-26
