@@ -59,3 +59,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [立即报名！「链上社会叙事」残酷共学即将开启](https://github.com/rebase-network/event-pool/issues/194) 2024-09-04
 - [Cellula 4x4 Gene-Type BitLife Hackathon](https://github.com/rebase-network/event-pool/issues/195) 2024-09-10
 - [首届密码朋克辩论赛](https://github.com/rebase-network/event-pool/issues/196) 2024-09-11
+- [Starknet 残酷共学](https://github.com/rebase-network/event-pool/issues/197) 2024-09-15
