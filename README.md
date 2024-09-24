@@ -60,3 +60,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [Cellula 4x4 Gene-Type BitLife Hackathon](https://github.com/rebase-network/event-pool/issues/195) 2024-09-10
 - [首届密码朋克辩论赛](https://github.com/rebase-network/event-pool/issues/196) 2024-09-11
 - [Starknet 残酷共学](https://github.com/rebase-network/event-pool/issues/197) 2024-09-15
+- [X space AMA:以太坊困局：以太坊已经穷途末路？](https://github.com/rebase-network/event-pool/issues/198) 2024-09-24
