@@ -63,3 +63,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [X space AMA:以太坊困局：以太坊已经穷途末路？](https://github.com/rebase-network/event-pool/issues/198) 2024-09-24
 - [加入第二期英语残酷共学，与伙伴一起突破英语听说瓶颈！](https://github.com/rebase-network/event-pool/issues/199) 2024-09-30
 - [LXDAO 北京线下活动丨公共物品 & DAO 治理](https://github.com/rebase-network/event-pool/issues/200) 2024-10-10
+- [LXDAO 上海线下 Meetup丨链上乡村，链上未来](https://github.com/rebase-network/event-pool/issues/201) 2024-10-13
