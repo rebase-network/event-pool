@@ -66,3 +66,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [LXDAO 上海线下 Meetup丨链上乡村，链上未来](https://github.com/rebase-network/event-pool/issues/201) 2024-10-13
 - [深圳站首映：Vitalik 以太坊的故事](https://github.com/rebase-network/event-pool/issues/202) 2024-10-16
 - [Delphinus Lab 10月27日深圳线下Meetup](https://github.com/rebase-network/event-pool/issues/203) 2024-10-23
+- [CryptoDCA 与定投分享会#1：CryptoDCA产品介绍与定投基本常识](https://github.com/rebase-network/event-pool/issues/204) 2024-11-05
