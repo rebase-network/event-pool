@@ -69,3 +69,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [CryptoDCA 与定投分享会#1：CryptoDCA产品介绍与定投基本常识](https://github.com/rebase-network/event-pool/issues/204) 2024-11-05
 - [Neo X Grind 黑客松](https://github.com/rebase-network/event-pool/issues/205) 2024-11-19
 - [“像蘑菇一样思考”：解码 Web3 的未来之路分享会](https://github.com/rebase-network/event-pool/issues/206) 2024-11-20
+- [11月26日（周二）20:00线上课程【 Starknet 的未来展望：质押上线、性能提升与生态升级 】转发申请](https://github.com/rebase-network/event-pool/issues/207) 2024-11-26
