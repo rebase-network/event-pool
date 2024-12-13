@@ -72,3 +72,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [11月26日（周二）20:00线上课程【 Starknet 的未来展望：质押上线、性能提升与生态升级 】转发申请](https://github.com/rebase-network/event-pool/issues/207) 2024-11-26
 - [📚 加入第一期 Arbitrum 残酷共学，深入探索 Layer 2 技术与 DAO 治理！](https://github.com/rebase-network/event-pool/issues/208) 2024-12-04
 - [📚 加入第一期 Arbitrum 残酷共学，深入探索 Layer 2 技术与 DAO 治理！](https://github.com/rebase-network/event-pool/issues/209) 2024-12-04
+- [划时代的跨链协议 ERC-7802 来了！](https://github.com/rebase-network/event-pool/issues/210) 2024-12-13
