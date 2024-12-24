@@ -74,3 +74,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [📚 加入第一期 Arbitrum 残酷共学，深入探索 Layer 2 技术与 DAO 治理！](https://github.com/rebase-network/event-pool/issues/209) 2024-12-04
 - [划时代的跨链协议 ERC-7802 来了！](https://github.com/rebase-network/event-pool/issues/210) 2024-12-13
 - [2024 Web3 开发者趋势报告 AMA](https://github.com/rebase-network/event-pool/issues/211) 2024-12-23
+- [链上协调与科研·新篇杭州线下活动报名开启](https://github.com/rebase-network/event-pool/issues/212) 2024-12-24
