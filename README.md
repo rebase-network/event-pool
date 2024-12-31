@@ -75,3 +75,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [划时代的跨链协议 ERC-7802 来了！](https://github.com/rebase-network/event-pool/issues/210) 2024-12-13
 - [2024 Web3 开发者趋势报告 AMA](https://github.com/rebase-network/event-pool/issues/211) 2024-12-23
 - [链上协调与科研·新篇杭州线下活动报名开启](https://github.com/rebase-network/event-pool/issues/212) 2024-12-24
+- [LXDAO Casual Hackathon #1 报名开启！AI 开发工具黑客松等你来战！](https://github.com/rebase-network/event-pool/issues/213) 2024-12-31
