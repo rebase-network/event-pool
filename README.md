@@ -77,3 +77,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [链上协调与科研·新篇杭州线下活动报名开启](https://github.com/rebase-network/event-pool/issues/212) 2024-12-24
 - [LXDAO Casual Hackathon #1 报名开启！AI 开发工具黑客松等你来战！](https://github.com/rebase-network/event-pool/issues/213) 2024-12-31
 - [AI x Web3：如何用 AI 驱动社区治理？](https://github.com/rebase-network/event-pool/issues/214) 2025-01-08
+- [从Network School 到 Network State AMA](https://github.com/rebase-network/event-pool/issues/215) 2025-02-13
