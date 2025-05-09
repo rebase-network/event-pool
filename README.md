@@ -80,3 +80,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [从Network School 到 Network State AMA](https://github.com/rebase-network/event-pool/issues/215) 2025-02-13
 - [加密思潮残酷共学](https://github.com/rebase-network/event-pool/issues/216) 2025-02-14
 - [wteam2025年AI创客节](https://github.com/rebase-network/event-pool/issues/217) 2025-04-24
+- [alcove × Movemake 分享会｜Aptos 技术与生态机会](https://github.com/rebase-network/event-pool/issues/218) 2025-05-09
