@@ -82,3 +82,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 - [wteam2025年AI创客节](https://github.com/rebase-network/event-pool/issues/217) 2025-04-24
 - [alcove × Movemake 分享会｜Aptos 技术与生态机会](https://github.com/rebase-network/event-pool/issues/218) 2025-05-09
 - [Web3活动 -- The Web3 社区区块链读书分享会--深圳站](https://github.com/rebase-network/event-pool/issues/219) 2025-06-03
+- [DappLink 全球城市行深圳站 | 盛夏浪潮，共话 Web3 未来](https://github.com/rebase-network/event-pool/issues/220) 2025-06-03
